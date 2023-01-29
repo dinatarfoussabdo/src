@@ -1,0 +1,18 @@
+#root{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+}
+
+
+button.btn{
+    padding: 10px 20px;
+}
+
+
+table th,td,tr{
+    padding: 10px;
+    border-collapse: collapse;
+    border: 1px solid white;
+}
+
